@@ -1,10 +1,10 @@
 {
   "hero": {
-    "title": "Hola, soy Angela"
+    "title": "Hola, soy Leonardo"
   },
   "about": {
     "title": "Acerca de Mí",
-    "text": "Actualmente estoy aprendiendo programación scracth orientada a objetos en Python. Me gusta muchísimo el desarrollo de videojuegos."
+    "text": "Actualmente estoy aprendiendo programación scracth. Me gusta muchísimo el desarrollo de videojuegos."
   },
 
   "frase": [
@@ -12,10 +12,6 @@
       "title": "2 años de experiencia en programación",
       "subtitle": ""
     },
-    {
-      "title": "Actualmente, aprendiendo programación Lua en Roblox Studio",
-      "subtitle": ""
-    }
   ],
 
 
@@ -23,9 +19,6 @@
     "title": "HABILIDADES",
     "codeSoftware": [
       { "name": "SCRATCH", "icon": "imagenes/icons/scratch.png" },
-      { "name": "LUA Y ROBLOX STUDIO", "icon": "imagenes/icons/roblox.png" },
-      { "name": "PYTHON", "icon": "imagenes/icons/python.png" },
-      { "name": "VISUAL STUDIO CODE", "icon": "imagenes/icons/vscode.png" }
     ],
     "aptitudes": [
       { "name": "Creatividad", "icon": "fa-solid fa-palette" },
@@ -40,7 +33,7 @@
   "experiencia": [
     {
       "title": "Curso de Programación Scratch & AI",
-      "year": "2024",
+      "year": "2025",
       "image": "imagenes/certificados/certificado-scratch.png",
       "tools": ["Scratch", "Piskel", "Machine Learning for Kids"],
       "description": "En este curso aprendí los conceptos básicos de programación, como las variables, los bucles, las funciones, los eventos y las condicionales, utilizando la plataforma Scratch. Además, desarrollé mis propios videojuegos y creé diseños personalizados en la plataforma Piskel. También exploré los fundamentos del machine learning, entrenando mis propios modelos en ML for Kids e integrándolos en mis proyectos de Scratch, lo que me permitió combinar creatividad y tecnología de manera práctica e innovadora.",
@@ -65,13 +58,6 @@
         "image": "imagenes/proyectos/roblox-1.png",
         "link": "https://www.punto-code.com/"
       },
-      {
-        "category": "Python y Tkinter",
-        "title": "Crea un Código QR",
-        "description": "Esta es una app donde puedes crear tu propio código QR.",
-        "image": "imagenes/proyectos/python-1.png",
-        "link": "https://www.punto-code.com/"
-      }
     ]
   },
 
